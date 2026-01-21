@@ -1,4 +1,8 @@
-version: 1.4
+version: 1.5
 text->
 버전 업데이트가 있습니다!
 https://drive.google.com/file/d/1YNSKxqUwo3g9HU-YVItK0mzpQB5kdKoE/view?usp=sharing
+
+수정내역:
+한글 경로/한글 사용자 이름에서 오류 발생이 일어나지 않도록 변경(아마...?)
+윈도우 기본 밝은 테마에서 GUI의 색이 이상하던 현상 수정
