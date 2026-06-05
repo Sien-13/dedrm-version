@@ -1,8 +1,8 @@
-version: 1.5
+version: 1.6
 text->
 버전 업데이트가 있습니다!
-https://drive.google.com/file/d/1YNSKxqUwo3g9HU-YVItK0mzpQB5kdKoE/view?usp=sharing
+https://drive.google.com/file/d/10LVUk42nMcod4Aap2dnb1aEYR9VocSOv/view?usp=sharing
 
 수정내역:
-한글 경로/한글 사용자 이름에서 오류 발생이 일어나지 않도록 변경(아마...?)
-윈도우 기본 밝은 테마에서 GUI의 색이 이상하던 현상 수정
+킨들 최신 버전 2.9.1 지원
+6월 30일부터 마소 공식 스토어 킨들 앱도 될지 불확실
