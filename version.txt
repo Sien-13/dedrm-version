@@ -1,8 +1,11 @@
-version: 1.6
+version: 1.7
 text->
 버전 업데이트가 있습니다!
-https://drive.google.com/file/d/10LVUk42nMcod4Aap2dnb1aEYR9VocSOv/view?usp=sharing
+https://drive.google.com/file/d/1-8brjYbpa-6V07F-VgiZW6a0gWX86l6r/view?usp=sharing
 
 수정내역:
-킨들 최신 버전 2.9.1 지원
-6월 30일부터 마소 공식 스토어 킨들 앱도 될지 불확실
+레거시 킨들 지원 종료
+(기존 레거시 킨들[~2.9.1]은 추출기 업데이트 안하면 추출 가능합니다)
+마이크로소프트 킨들 추출 지원 (1.0.16118 버전)
+
+*6월 30일부터 레거시 킨들 사용이 막힙니다.
