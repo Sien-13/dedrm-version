@@ -1,4 +1,4 @@
-version: 1.8
+version: 1.9
 text->
 버전 업데이트가 있습니다!
 레거시 킨들 사용하실 분은 업데이트하시면 안됩니다!
@@ -6,8 +6,6 @@ text->
 마소 킨들 업데이트
 https://drive.google.com/file/d/1-8brjYbpa-6V07F-VgiZW6a0gWX86l6r/view?usp=sharing
 
-레거시 킨들 추출기로 다운그레이드
-https://drive.google.com/file/d/10LVUk42nMcod4Aap2dnb1aEYR9VocSOv/view?usp=sharing
-
 수정내역:
 - Microsoft Kindle 1.0.18320 버전 지원
+- Calibre 자동 변환 기능 추가 (가이드 읽어보세요)
