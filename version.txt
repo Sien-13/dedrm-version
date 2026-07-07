@@ -1,7 +1,7 @@
 version: 1.8
 text->
 버전 업데이트가 있습니다!
-레거시 킨들 사용자는 업데이트하시면 안됩니다!
+레거시 킨들 사용하실 분은 업데이트하시면 안됩니다!
 https://drive.google.com/file/d/1-8brjYbpa-6V07F-VgiZW6a0gWX86l6r/view?usp=sharing
 
 수정내역:
